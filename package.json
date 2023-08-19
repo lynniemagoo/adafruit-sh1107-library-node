@@ -1,10 +1,10 @@
 {
   "name": "@lynniemagoo/adafruit-sh1107-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeJS Promise-based port adaptation of C/C++ Adafruit_SSD1306 from Github for SH1107",
   "main": "index.js",
   "dependencies": {
-    "@lynniemagoo/adafruit-gfx-library": "^1.0.0"
+    "@lynniemagoo/adafruit-gfx-library": "^1.0.4"
   },
   "files": {
     "lib": "lib"

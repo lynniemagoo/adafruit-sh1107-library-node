@@ -58,7 +58,7 @@ async function main() {
                       // by this module, set this value. (-1 is default)
                       // if set to -1 then will not be used.
         spiDeviceNumber:0,
-        spiMaxSpeedHz:3000000
+        spiMaxSpeedHz:4000000
     }
 
     const display = new Adafruit_SH1107_SPI(displayOptions);
